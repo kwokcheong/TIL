@@ -1,12 +1,15 @@
 # TIL
 > KC's Today I learned List
 
+Comprises of all notes and daily learnings
+
 ---
 
-### Categories
-
+### Web Development
 * [React](#React)
 * [Ruby on Rails](#Ruby-on-Rails)
+
+### NUS Notes
 * [TIC2301 Intro To Information Security](#TIC2301-Intro-to-infosec)
 
 ---
