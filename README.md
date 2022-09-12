@@ -18,6 +18,7 @@
 ### Ruby on Rails
 
 - [first](Ruby-on-Rails/first.md)
+- [child](Ruby-on-Rails/child/)
 
 ### TIC2301 Intro to information security
 
