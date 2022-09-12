@@ -18,8 +18,13 @@
 ### Ruby on Rails
 
 - [first](Ruby-on-Rails/first.md)
-- [child](Ruby-on-Rails/child/)
+
+>  How to create first rails app
+
+- [inititalize](Ruby-on-Rails/child/test.md)
 
 ### TIC2301 Intro to information security
 
 - [lecture1](TIC2301-Intro-to-infosec/lecture1.md)
+
+
