@@ -1,0 +1,1 @@
+hi this is lect 1
